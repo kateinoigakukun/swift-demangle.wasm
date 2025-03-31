@@ -1,0 +1,6 @@
+{
+  "devDependencies": {
+    "swift-demangle.wasm": "file:.build/plugins/PackageToJS/outputs/Package",
+    "vite": "^6.2.3"
+  }
+}
