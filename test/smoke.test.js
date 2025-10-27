@@ -1,4 +1,4 @@
-import init from "../dist"
+import init from "../dist/index.node.js"
 import { test, expect } from "vitest"
 
 test("smoke check on Node.js", async () => {

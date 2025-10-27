@@ -1,4 +1,4 @@
-import init from "../dist"
+import init from "../dist/index.browser.js"
 import { page } from 'vitest/browser'
 import { test, expect } from "vitest"
 

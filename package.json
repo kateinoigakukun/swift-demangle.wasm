@@ -3,9 +3,9 @@
   "version": "1.0.0",
   "description": "swift-demangle compiled to WebAssembly",
   "type": "module",
-  "main": "./index.node.js",
-  "browser": "./index.browser.js",
-  "types": "./index.d.ts",
+  "main": "./dist/index.node.js",
+  "browser": "./dist/index.browser.js",
+  "types": "./src/index.d.ts",
   "bin": {
     "swift-demangle": "./bin/swift-demangle.js"
   },
