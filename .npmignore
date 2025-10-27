@@ -1,0 +1,10 @@
+.build/
+Sources/
+src/
+test/
+vitest.config.js
+Package.swift
+Package.resolved
+.vscode/
+build.sh
+swift-demangle-wasm-*.tgz

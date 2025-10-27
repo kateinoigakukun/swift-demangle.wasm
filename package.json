@@ -1,0 +1,30 @@
+{
+  "name": "swift-demangle-wasm",
+  "version": "1.0.0",
+  "description": "swift-demangle compiled to WebAssembly",
+  "type": "module",
+  "main": "./index.node.js",
+  "browser": "./index.browser.js",
+  "types": "./index.d.ts",
+  "scripts": {
+    "test": "vitest"
+  },
+  "keywords": [
+    "webassembly",
+    "swift"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kateinoigakukun/swift-demangle.wasm.git"
+  },
+  "author": "Yuta Saito",
+  "license": "MIT",
+  "devDependencies": {
+    "@vitest/browser-playwright": "^4.0.3",
+    "esbuild": "^0.25.11",
+    "vitest": "^4.0.3"
+  },
+  "dependencies": {
+    "@bjorn3/browser_wasi_shim": "^0.4.2"
+  }
+}

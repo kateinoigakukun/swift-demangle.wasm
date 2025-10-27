@@ -1,0 +1,35 @@
+{
+  "classes" : [
+
+  ],
+  "enums" : [
+
+  ],
+  "functions" : [
+    {
+      "abiName" : "bjs_demangle",
+      "effects" : {
+        "isAsync" : false,
+        "isThrows" : false
+      },
+      "name" : "demangle",
+      "parameters" : [
+        {
+          "label" : "_",
+          "name" : "mangledName",
+          "type" : {
+            "string" : {
+
+            }
+          }
+        }
+      ],
+      "returnType" : {
+        "string" : {
+
+        }
+      }
+    }
+  ],
+  "moduleName" : "swift-demangle"
+}
