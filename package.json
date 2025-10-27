@@ -1,6 +1,6 @@
 {
   "name": "swift-demangle-wasm",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "swift-demangle compiled to WebAssembly",
   "type": "module",
   "main": "./dist/index.node.js",
