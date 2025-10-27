@@ -6,6 +6,9 @@
   "main": "./index.node.js",
   "browser": "./index.browser.js",
   "types": "./index.d.ts",
+  "bin": {
+    "swift-demangle": "./bin/swift-demangle.js"
+  },
   "scripts": {
     "test": "vitest"
   },

@@ -12,3 +12,4 @@ cp src/index.d.ts dist/index.d.ts
 cp package.json dist/package.json
 cp LICENSE dist/LICENSE
 cp NOTICE dist/NOTICE
+cp -R ./bin dist/bin
