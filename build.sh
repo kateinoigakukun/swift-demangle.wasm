@@ -10,3 +10,5 @@ npx esbuild --bundle --format=esm --external:@bjorn3/browser_wasi_shim --platfor
 cp ./.build/plugins/PackageToJS/outputs/Package/swift-demangle.wasm dist/swift-demangle.wasm
 cp src/index.d.ts dist/index.d.ts
 cp package.json dist/package.json
+cp LICENSE dist/LICENSE
+cp NOTICE dist/NOTICE

@@ -1,0 +1,8 @@
+This package contains Swift demangler functionality derived from the Swift programming language project.
+
+The Swift demangler code included in this distribution is from the swiftlang/swift repository
+and is licensed under the Apache License 2.0 with LLVM Exception.
+
+Original source: https://github.com/swiftlang/swift
+License: Apache License 2.0 with LLVM Exception
+Full license text: https://www.swift.org/LICENSE.txt
